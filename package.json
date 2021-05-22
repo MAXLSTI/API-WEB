@@ -1,0 +1,24 @@
+{
+  "name": "api-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.c4ac2afcb9dacc83c4ce.js",
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "serve -s build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAXLSTI/API-WEB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAXLSTI/API-WEB/issues"
+  },
+  "homepage": "https://github.com/MAXLSTI/API-WEB#readme"
+}
